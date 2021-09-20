@@ -15,7 +15,7 @@ Musical is a music entertainment app. User can search and play any song.
 ## Test Credentials
 
 - email: test@gmail.com
-- password: test
+- password: test123
 
 ## Tech Stack
 
