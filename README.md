@@ -34,3 +34,13 @@ Musical is a music entertainment app. User can search and play any song.
 - Express
 
 - MongoDB
+
+## Functionalities Implemented
+
+- Songs home page
+
+- Like Songs and Liked songs page
+
+- User login and sign up
+
+- Search songs
